@@ -29,8 +29,8 @@ d) Concatenation of strings
 => str2=$str""$str1
 
 e) Compare two strings
-=> 	str1="vishva"
-	str2="jeet"
+=> 	str1="akshay"
+	str2="bondar"
 	if [ "$str1" == "$str2"  ];then
         	echo "string is same"
 	else
